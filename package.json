@@ -1,0 +1,23 @@
+{
+  "name": "gamers-yard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoshEee/Gamers-Yard.git"
+  },
+  "keywords": [
+    "gamers"
+  ],
+  "author": "Bushra Shwiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoshEee/Gamers-Yard/issues"
+  },
+  "homepage": "https://github.com/BoshEee/Gamers-Yard#readme"
+}
