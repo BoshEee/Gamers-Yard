@@ -1,9 +1,7 @@
 const http = require("http");
+const router = require("./router");
 const PORT = 3000;
 
-const server = http.createServer((request, response) => {
-  response.writeHead(200, { "content-type": "text/html" });
-  response.end("<h1>Hello World!</h1>");
-});
+const server = http.createServer(router);
 
 server.listen(PORT, () => console.log(`Listening on http://localhost:${PORT}`));
