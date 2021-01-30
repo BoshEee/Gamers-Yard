@@ -1,53 +1,104 @@
 [
   {
-    "name": "The Last Of Us 2"
+    "name": "The Last Of Us 2",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://cdn.europosters.eu/image/1300/posters/the-last-of-us-2-ellie-i76718.jpg"
   },
   {
-    "name": "The Last Of Us "
+    "name": "The Last Of Us ",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/41dwZwBvKFL._AC_.jpg"
   },
   {
-    "name": "Uncharted: Drake's Fortune"
+    "name": "Uncharted: Drake's Fortune",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://m.media-amazon.com/images/I/71sJkOTte1L.jpg"
   },
   {
-    "name": "Uncharted: Among Thieves"
+    "name": "Uncharted: Among Thieves",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk4ZGQ1NTUtZTYwYS00YTMwLWI1OTYtNTNkZWRmNzljMjU3XkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_.jpg"
   },
   {
-    "name": "Uncharted: Drake's Deception"
+    "name": "Uncharted: Drake's Deception",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODk5OGEtNTc4ZC00MDE5LWEyZGQtNGRiZDExYWYyNzE4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg"
   },
   {
-    "name": "Uncharted: A Thief's End"
+    "name": "Uncharted: A Thief's End",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://images.penguinrandomhouse.com/cover/9781616559274"
   },
   {
-    "name": "Uncharted: The Lost Legacy"
+    "name": "Uncharted: The Lost Legacy",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://i.ebayimg.com/images/g/~BcAAOSw9sJZq8nR/s-l400.jpg"
   },
   {
-    "name": "Until Dawn"
+    "name": "Until Dawn",
+    "platform": "PlayStation",
+    "genres": ["Horror"],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVlYWVmOTYtNGI3OS00YWUyLTlkZDItMDA4ZWZiNjVmZmZmXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_.jpg"
   },
   {
-    "name": "Horizon Zero Dawn"
+    "name": "Horizon Zero Dawn",
+    "platform": "PlayStation",
+    "genres": ["Role Playing Games ", "Adventure"],
+    "poster": "https://static.displate.com/857x1200/displate/2020-07-05/c9b17d50dc5e5e509e692b55b30cefa5_4fc0de222e3786ac5aa12aeb69aac69b.jpg"
   },
   {
-    "name": "Marvel : Spider Man"
+    "name": "Marvel : Spider Man",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/81f4z3CtwlL._AC_SL1500_.jpg"
   },
   {
-    "name": "God Of War 4"
+    "name": "God Of War 4",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure"],
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/81gXqxyFrxL.jpg"
   },
   {
-    "name": "Days Gone"
+    "name": "Days Gone",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Adventure ", "Horror"],
+    "poster": "https://wallpapercave.com/wp/wp2393006.jpg"
   },
   {
-    "name": "Bloodborne"
+    "name": "Bloodborne",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Role Playing Games"],
+    "poster": "https://i.pinimg.com/originals/4d/1a/7d/4d1a7d832d2787a23ab14cb24f1c38a6.jpg"
   },
   {
-    "name": "Hidden Agenda"
+    "name": "Hidden Agenda",
+    "platform": "PlayStation",
+    "genres": ["Adventure"],
+    "poster": "https://i.pinimg.com/736x/7e/de/35/7ede350b40aa6710ba05fece48251458.jpg"
   },
   {
-    "name": "Dark Eclipse"
+    "name": "Dark Eclipse",
+    "platform": "PlayStation",
+    "genres": ["Action ", "Arcade ", "Driving"],
+    "poster": "https://format-com-cld-res.cloudinary.com/image/private/s--dtYZbd-I--/c_limit,g_center,h_65535,w_1600/fl_keep_iptc.progressive,q_95/v1/6ecd3b7250706f069fe53ea96b6a8161/eclipse_vrlaposter02_17x22.jpg"
   },
   {
-    "name": "Life Is Strange"
+    "name": "Life Is Strange",
+    "platform": ["PC ", "PlayStation ", "Xbox ", "Mobile"],
+    "genres": ["Adventure"],
+    "poster": "https://i.pinimg.com/originals/8b/da/c9/8bdac98f98972e2f1e3c185bbe742778.png"
   },
   {
-    "name": "Life Is Strange : Before the Storm"
+    "name": "Life Is Strange : Before the Storm",
+    "platform": ["PC ", "PlayStation ", "Xbox ", "Mobile"],
+    "genres": ["Adventure"],
+    "poster": "https://s1.gaming-cdn.com/images/products/2136/orig/life-is-strange-before-the-storm-cover.jpg"
   }
 ]

@@ -65,3 +65,34 @@ a {
 a:hover {
   color: white;
 }
+
+.info {
+  background-color: rgba(86, 112, 111, 0.2);
+  display: none;
+  border-radius: 5px;
+  width: 900px;
+  height: 500px;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.info > * {
+  padding: 10px;
+}
+.info > h3 {
+  color: #a8d9d7;
+}
+#poster {
+  width: 300px;
+  height: 400px;
+  float: right;
+  border: var(--btnBg) 2px solid;
+  margin-right: 5px;
+}
+
+footer {
+  color: var(--btnBg);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}

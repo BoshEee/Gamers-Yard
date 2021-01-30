@@ -1,21 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="/public/img/favico.png" />
     <link rel="stylesheet" href="/public/style.css" />
     <title>Gamers Yard</title>
-</head>
-<body>
-    <img src="./public/img/logo.png" alt="Logo" class="logoImg" /> 
+  </head>
+  <body>
+    <img src="./public/img/logo.png" alt="Logo" class="logoImg" />
     <form class="search-form">
-        <label for="search-box">Looking For A Game?</label>
-        <input class="search-box" placeholder="Type Name Here ..." list="search-result"> 
-        <datalist id="search-result"></datalist>
-        <button type="submit" class="subBtn">SMASH!</button>
+      <label for="search-box">Looking For A Game?</label>
+      <input
+        class="search-box"
+        placeholder="Type Name Here ..."
+        list="search-result"
+      />
+      <datalist id="search-result"></datalist>
+      <button type="submit" class="subBtn">SMASH!</button>
+      <output></output>
     </form>
 
+    <div class="info">
+      <h3 id="title">Title :</h3>
+      <img src="#" alt="poster" id="poster" />
+      <h3 id="platform">Platform :</h3>
+      <h3 id="genres">Platform :</h3>
+    </div>
     <script src="./public/index.js"></script>
-</body>
+  </body>
 </html>
